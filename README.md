@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋, I'm Alsu</h1>
 <h3 align="left">Junior Data Scientist</h3>
 
+<h3 align="left">I'm working with:
+<h4 align="left">Machine Learning, Statistics, Time Series, Deep Learning</h3>
+
+
+<h3 align="left">Education:</h3>
+<h4 align="left">Bachelor Degree (2018-2022) - Economics ans Statistics, NRU HSE</h3>
+
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://t.me/bekalsu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a>
