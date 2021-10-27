@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋, I'm Alsu</h1>
 <h3 align="left">Junior Data Scientist</h3>
 
-<h3 align="left">I'm working with:
-<h4 align="left">Machine Learning, Statistics, Time Series, Deep Learning</h3>
-
+<h3 align="left">I'm working with:</h3>
+Machine Learning, Statistics, Time Series, Deep Learning<br>
+You can see my projects in pinned repositories
 
 <h3 align="left">Education:</h3>
 <h4 align="left">Bachelor Degree (2018-2022) - Economics ans Statistics, NRU HSE</h3>
