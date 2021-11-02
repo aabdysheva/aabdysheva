@@ -2,7 +2,7 @@
 <h3 align="left">Junior Data Scientist</h3>
 
 <h3 align="left">I'm working with:</h3>
-Data Analysis, Machine Learning, Deep Learning, Time Series<br>
+Data Analysis, Machine Learning, Deep Learning<br>
 You can see my projects in pinned repositories
 
 <h3 align="left">Education:</h3>
