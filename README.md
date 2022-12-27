@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋, I'm Alsu</h1>
-<h3 align="left">Junior Data Scientist</h3>
+<h2 align="left">Hi, I'm Alsu</h1>
+<h3 align="left">Data Scientist</h3>
 
 <h3 align="left">I'm working with:</h3>
-Data Analysis, Machine Learning, Deep Learning<br>
+Data Analysis, Machine Learning<br>
 You can see my projects in pinned repositories
 
 <h3 align="left">Education:</h3>
