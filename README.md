@@ -1,9 +1,7 @@
 <h2 align="left">Hi, I'm Alsu</h1>
-<h3 align="left">Data Scientist</h3>
+<h3 align="left">Data Science / Data Analysis / Classic ML Algorithms </h3>
 
-<h3 align="left">I'm working with:</h3>
-Data Analysis, Machine Learning<br>
-You can see my projects in pinned repositories
+You can see my pet-projects in pinned repositories:
 
 <h3 align="left">Education:</h3>
 <h4 align="left">Bachelor Degree (2018-2022) - Economics ans Statistics, NRU HSE</h3>
