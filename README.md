@@ -1,12 +1,10 @@
 <h2 align="left">Hi, I'm Alsu</h1>
 <h3 align="left">Data Science / Data Analysis / Classic ML Algorithms </h3>
 
-You can see my pet-projects in pinned repositories:
-
 <h3 align="left">Education:</h3>
 <h4 align="left">Bachelor Degree (2018-2022) - Economics ans Statistics, NRU HSE</h3>
 
-<h3 align="left">Contact me:</h3>
+<h3 align="left">Contacts:</h3>
 <p align="left">
   
 <a href="https://t.me/bekalsu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="bekalsu" height="30" width="40" /></a> 
